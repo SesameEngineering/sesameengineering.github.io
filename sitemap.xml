@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sesameengineering.github.io/sesameengineering.github.io-old/categories/</loc>
+    <loc>https://sesameengineering.github.io/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sesameengineering.github.io/sesameengineering.github.io-old/tags/</loc>
+    <loc>https://sesameengineering.github.io/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sesameengineering.github.io/sesameengineering.github.io-old/</loc>
+    <loc>https://sesameengineering.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

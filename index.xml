@@ -6,10 +6,20 @@
     <description>Recent content on The Sesame Engineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 02:04:21 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 15:49:02 -0700</lastBuildDate>
     
 	<atom:link href="https://sesameengineering.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://sesameengineering.github.io/posts/my-second-post/</link>
+      <pubDate>Fri, 17 Apr 2020 15:49:02 -0700</pubDate>
+      
+      <guid>https://sesameengineering.github.io/posts/my-second-post/</guid>
+      <description>This is my second post to the test blog to see if I can understand how this is all put together.
+Let&amp;rsquo;s see how this goes.</description>
+    </item>
     
     <item>
       <title>My First Post</title>

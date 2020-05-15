@@ -1,0 +1,19 @@
+.lh-title{
+	font-family: sans-serif;
+	font-weight: 500;
+}
+
+.bg-light-gray{
+	background-color:#C52CF6;
+	text-transform: uppercase;
+	font-weight: 600;
+	padding: 10px 10px;
+}
+
+.purple{
+	color: #C52CF6
+}
+
+.social-share{
+	padding-left:15px;
+}
